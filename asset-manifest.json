@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/movie-lens/static/css/main.7c550bfc.css",
+    "main.js": "/movie-lens/static/js/main.715488e1.js",
+    "index.html": "/movie-lens/index.html",
+    "static/media/search.svg": "/movie-lens/static/media/search.92462135189eb1d520fdfa1e80fb1361.svg",
+    "main.7c550bfc.css.map": "/movie-lens/static/css/main.7c550bfc.css.map",
+    "main.715488e1.js.map": "/movie-lens/static/js/main.715488e1.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.7c550bfc.css",
+    "static/js/main.715488e1.js"
+  ]
+}
